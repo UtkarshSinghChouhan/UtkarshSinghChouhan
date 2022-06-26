@@ -2,7 +2,7 @@
 <img width="75%" height = "450px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ap5bagchi4aezlvfc4q0qncsi69esbb6u6ih48ty&rid=giphy.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 10px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "10px"> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/UtkarshSinghChouhan.https://github.com/UtkarshSinghChouhan)
