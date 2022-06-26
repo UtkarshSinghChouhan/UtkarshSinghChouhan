@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Utkarsh
 #### I'm an Aspiring Front-end Developer
-![I'm an Aspiring Front-end Developer](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
+![I'm an Aspiring Front-end Developer](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif#center)
 
 Hi, I'm Utkarsh Singh Chouhan and I am currently pursuing my Masters in Computer Application. I have a keen interest in Frontend Web-Development and enjoy Design and Development. I really enjoy learning languages and frameworks.
 
