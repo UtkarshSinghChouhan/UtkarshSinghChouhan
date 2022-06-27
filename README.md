@@ -1,5 +1,5 @@
 <div align="center">
-<img width="75%" height = "450px" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" alt="cover" />
+<img width="95%" height = "450px" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" alt="cover" />
 <!--   <video width = "250px" height = "100px"><source src = "https://c.tenor.com/3bTxZ4HdrysAAAPo/pixels-neon.mp4"></video> -->
 </div>
 
@@ -54,5 +54,3 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
