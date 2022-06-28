@@ -1,6 +1,5 @@
 <div align="center">
 <img width="95%" height = "450px" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" alt="cover" />
-<!--   <video width = "250px" height = "100px"><source src = "https://c.tenor.com/3bTxZ4HdrysAAAPo/pixels-neon.mp4"></video> -->
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "5%" height="5%"> </h1>
