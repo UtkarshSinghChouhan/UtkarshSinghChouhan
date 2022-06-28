@@ -44,10 +44,12 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'> </h2>
 
-  <p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshSinghChouhan&theme=gotham"> </p> 
-  <p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=UtkarshSinghChouhan&show_icons=true&theme=gotham">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshSinghChouhan&theme=gotham" weidth = "50%" height="195px">  </p>
-  <img src = "https://activity-graph.herokuapp.com/graph?username=UtkarshSinghChouhan&theme=gotham">
+  <p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshSinghChouhan&theme=radical"> </p> 
+  <p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=UtkarshSinghChouhan&show_icons=true&theme=radical">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshSinghChouhan&theme=radical" weidth = "50%" height="195px">  </p>
+  
+  
+  <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=UtkarshSinghChouhan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false&theme=gotham" alt="SiddharthSsb11" /> </p>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://c.tenor.com/7K719wmyoOIAAAAd/lmao-big-funny.gif' width = '32px' height = "20px"></h2>
 
