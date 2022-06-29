@@ -4,7 +4,9 @@
 
 <hr>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+FrontEnd+Developer;Converting+Words+into+Code;Arsenal+Fan+!!+YaGunnersYa+!!;You%20just%20killed%20the+cat!!&center=true&width=5%&height=5%&font=georgia"></a>
+ <h2>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+FrontEnd+Developer;Converting+Words+into+Code;&center=true&width=500&height=50&font=georgia"></a>
+ </h2>
 </p>
 <hr>
 
