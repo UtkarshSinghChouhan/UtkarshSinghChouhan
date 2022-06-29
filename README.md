@@ -2,6 +2,12 @@
 <img width="95%" height = "450px" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" alt="cover" />
 </div>
 
+<hr>
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+FrontEnd+Developer;Converting+Words+into+Code;Arsenal+Fan+!!+YaGunnersYa+!!;You%20just%20killed%20the+cat!!&center=true&width=5%&height=5%&font=georgia"></a>
+</p>
+<hr>
+
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "5%" height="5%"> </h1>
 <p align='center'>
 
@@ -27,6 +33,7 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "4%" height ="8%"> </h2>
 <a href= https://github.com/https://github.com/UtkarshSinghChouhan?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<br>
 <a href= https://github.com/https://github.com/UtkarshSinghChouhan?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= https://github.com/https://github.com/UtkarshSinghChouhan?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/https://github.com/UtkarshSinghChouhan?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
