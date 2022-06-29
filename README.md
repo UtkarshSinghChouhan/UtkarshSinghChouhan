@@ -2,13 +2,13 @@
 <img width="95%" height = "450px" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" alt="cover" />
 </div>
 
-<hr>
+
 <p align="center">
- <h2>
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+FrontEnd+Developer;Converting+Words+into+Code;&center=true&width=500&height=50&font=georgia"></a>
- </h2>
+
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=25&color=898C8B&lines=Aspiring+FrontEnd+Developer+🤓+;Converting+words+into+codes+👨‍💻)
+ 
 </p>
-<hr>
+
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "5%" height="5%"> </h1>
 <p align='center'>
