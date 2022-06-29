@@ -3,10 +3,10 @@
 </div>
 
 
-<p align="center">
+<hr>
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&size=25&color=898C8B&lines=Aspiring+FrontEnd+Developer+🤓+;Converting+words+into+codes+👨‍💻)
- 
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=25&color=898C8B&lines=Aspiring+FrontEnd+Developer+🤓+;Converting+words+into+codes+👨‍"></a>
 </p>
 
 
