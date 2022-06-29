@@ -5,7 +5,7 @@
 
 
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=25&color=898C8B&lines=Aspiring+FrontEnd+Developer+🤓+;Converting+words+into+codes+👨‍"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=25&color=F7F7F7FF&lines=Aspiring+FrontEnd+Developer+🤓+;Converting+words+into+codes+👨‍💻"></a>
 </p>
 
 <hr>
@@ -57,7 +57,7 @@
 
 <hr>
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='3%'> </h2>
+<h2> My GitHub Stats <img src='https://cdn.dribbble.com/users/24091/screenshots/882638/media/945d91a40b7fa69711ea5af3f0fa5aa7.gif' width='5%' heigh="3%"> </h2>
 
   <p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshSinghChouhan&theme=radical"> </p> 
   <p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=UtkarshSinghChouhan&show_icons=true&theme=radical">
