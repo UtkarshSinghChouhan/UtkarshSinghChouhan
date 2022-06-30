@@ -58,7 +58,7 @@
 <hr>
 
 
- <h2> <img src='https://media0.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e47pr556mfdp414qrffh3l84oi84m1xc46yv0yaqj3n&rid=giphy.gif' width='3%'>  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=23&duration=8000&color=E4E4E4&lines=My+GitHub+Stats+.+.+.+.">  </h2>
+ <h2>   <img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=23&duration=8000&color=E4E4E4&lines=My+GitHub+Stats+.+.+.+.">  </h2>
 
   <p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshSinghChouhan&theme=radical"> </p> 
   <p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=UtkarshSinghChouhan&show_icons=true&theme=radical">
