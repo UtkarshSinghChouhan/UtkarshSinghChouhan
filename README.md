@@ -75,8 +75,12 @@
 
 <p align="left">  
    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-    &emsp;   
+    &emsp;
+     <img alt="Code Blocks" src="https://img.shields.io/badge/codeblocks-007ACC?style=for-the-badge&logo=codeblocks&logoColor=white">
+    &emsp;
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    &emsp;
+     <img alt="Intellij Idea" src="https://img.shields.io/badge/intellijIdea-007ACC?style=for-the-badge&logo=intellij idea&logoColor=white">
     &emsp;
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     &emsp; 
