@@ -33,11 +33,11 @@
 - 🔭 I’m currently working on JavaScript.
 
 
-- 🌱 I’m currently learning JavaScript and CSS. 
+- 🌱 I’m currently learning JavaScript and Node Js. 
 
 - 👯 I’m looking to collaborate on JavaScript 
 
-- 💬 Talk to me about JavaScript 
+- 💬 Talk to me about JavaScript and Node Js 
 
 <hr>
 
