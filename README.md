@@ -33,11 +33,11 @@
 - 🔭 I’m currently working on JavaScript.
 
 
-- 🌱 I’m currently learning JavaScript and Node Js. 
+- 🌱 I’m currently learning JavaScript and React Js. 
 
 - 👯 I’m looking to collaborate on JavaScript 
 
-- 💬 Talk to me about JavaScript and Node Js 
+- 💬 Talk to me about JavaScript and React Js 
 
 <hr>
 
@@ -108,7 +108,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshSinghChouhan&theme=radical" weidth = "50%" height="195px">  </p>
   
   
-  <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=UtkarshSinghChouhan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false&theme=gotham" alt="SiddharthSsb11" /> </p>
+
 
 <hr>
 
