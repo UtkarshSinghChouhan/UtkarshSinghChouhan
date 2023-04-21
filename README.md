@@ -1,5 +1,5 @@
 <h2 align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=25&color=F7F7F7FF&lines=Aspiring+FrontEnd+Developer+🤓+;Converting+words+into+codes+👨‍💻"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=25&color=F7F7F7FF&lines=Aspiring+FullStack+Developer+🤓+;Converting+words+into+codes+👨‍💻"></a>
 </h2>
 
 <div align="center">
@@ -35,9 +35,9 @@
 
 - 🌱 I’m currently learning JavaScript and React Js. 
 
-- 👯 I’m looking to collaborate on JavaScript 
+- 👯 I’m looking to collaborate on JavaScript. 
 
-- 💬 Talk to me about JavaScript and React Js 
+- 💬 Talk to me about JavaScript and Angular. 
 
 <hr>
 
@@ -50,8 +50,13 @@
     &emsp;
     <img alt="C++" src="https://img.shields.io/badge/Cpp-F7DF1E?style=for-the-badge&logo=C++&logoColor=black">
     &emsp;
+    <img alt="C#" src="https://img.shields.io/badge/C#-F7DF1E?style=for-the-badge&logo=C#&logoColor=black">
+    &emsp;
+    <img alt="Java" src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=black">
+    &emsp;
     <img alt="C" src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=c&logoColor=black">
     &emsp;
+   <img alt="PHP" src="https://img.shields.io/badge/php-F7DF1E?style=for-the-badge&logo=php&logoColor=black">
 </p>
 
 
@@ -67,6 +72,8 @@
    &emsp; 
    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     &emsp;  
+   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    &emsp;
  
 </p>
 
