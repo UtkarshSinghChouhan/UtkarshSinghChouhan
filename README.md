@@ -1,4 +1,4 @@
-<h2 align="center">
+ <h2 align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=25&color=F7F7F7FF&lines=Aspiring+FullStack+Developer+🤓+;Converting+words+into+codes+👨‍💻"></a>
 </h2>
 
